@@ -788,6 +788,12 @@ vendor/lib64/vendor.qti.imsrtpservice@3.0.so
 vendor/lib64/vendor.qti.imsrtpservice@3.1-service-Impl.so
 vendor/lib64/vendor.qti.imsrtpservice@3.1.so
 
+# IFAA
+system_ext/app/IfaaService/IfaaService.apk
+vendor/bin/hw/vendor.zui.hardware.ifaa@1.0-service
+vendor/etc/init/vendor.zui.hardware.ifaa@1.0-service.rc
+vendor/lib64/vendor.zui.hardware.ifaa@1.0.so
+
 # IRQ balance
 vendor/bin/msm_irqbalance
 vendor/etc/msm_irqbalance.conf
